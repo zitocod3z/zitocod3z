@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java,C,PHP**
 
-- 👯 I’m looking to collaborate on **Beautiful and responsive softwares / webapps**
+- 👯 I’m looking to collaborate on **Beautiful,responsive,dynamic and useful softwares / webapps**
 
 - 💬 Ask me about **Python(Django),JavaScript**
 
